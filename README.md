@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/naveenkumar-gone-8323461a1/](https://www.linkedin.com/in/naveenkumar-gone-8323461a1/)
 
 - ⚡ Fun fact **I think I am Funny**
-
+<hr style="height: 2.5px; background-color: transparent; border: none;">
 <h2 align="center">Connect With Me 📥 </h2>
 <p align="center">
 <a style="text-decoration: none; margin: 0px 2px;" href="https://twitter.com/https://twitter.com/naveenkuma2927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/naveenkuma2927" height="30" width="40" /></a>
