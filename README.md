@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on **Full Stack Development Projects.**
 
-- 🌱 I’m currently learning **Full Stack Development**
-
 - 👯 I’m looking to collaborate on **Freelancing Projects**
 
 - 💬 Ask me about **Information & Technology**
 
 - 📫 How to reach me **naveenkumargone1234@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/naveenkumar-gone-8323461a1/](https://www.linkedin.com/in/naveenkumar-gone-8323461a1/)
+- 🌱 Know about my experiences [https://www.linkedin.com/in/naveenkumar-gone-8323461a1/](https://www.linkedin.com/in/naveenkumar-gone-8323461a1/)
 
 - ⚡ Fun fact **I think I am Funny**
 <hr style="height: 2.5px; background-color: transparent; border: none; margin: 10px 0px;">
